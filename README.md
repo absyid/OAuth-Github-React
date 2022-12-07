@@ -3,13 +3,13 @@ Nama : Abdul Rosyid Hidayatullah
 IP Batch 12
 Stack : Frontend
  
-# Soal Essay
+# Soal Essay --> Passed
 folder : soalEssay
 
-# Soal Teknis
+# Soal Teknis --> NotPassed
 folder : soalTeknis
 
-# Soal 
+# Soal --> NotPassed
 folder : soalDebuging
 
 
